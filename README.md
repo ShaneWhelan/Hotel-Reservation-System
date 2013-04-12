@@ -2,3 +2,18 @@ Hotel-Reservation-System
 ========================
 
 A command line hotel reservation system developed for a college project.
+
+To run the Reservation System:
+
+1) Open the Comandprompt.
+
+2) Change Current Working Directory to the directory the files are in.
+
+3) Compile the Java code using the command javac.
+
+4) Run the code using the command java Mainsys.
+
+5) Follow the onscreen prompts.
+
+Notes:   Mainsys.java is where the main method is held. Run this class file.
+	Do NOT alter the csv files in anyway doing so will cause the program to malfunction.
